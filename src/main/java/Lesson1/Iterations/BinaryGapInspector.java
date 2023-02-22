@@ -1,7 +1,7 @@
 package Lesson1.Iterations;
 
 
-import static common.utils.utils.utils.InputVerifier.checkValueRange;
+import static common.utils.InputVerifier.checkValueRange;
 
 public abstract class BinaryGapInspector {
     public final String binaryString;

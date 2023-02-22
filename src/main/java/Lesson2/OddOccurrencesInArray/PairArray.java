@@ -1,7 +1,7 @@
 package Lesson2.OddOccurrencesInArray;
 
-import static common.utils.utils.utils.InputVerifier.checkArraySize;
-import static common.utils.utils.utils.InputVerifier.checkValueRange;
+import static common.utils.InputVerifier.checkArraySize;
+import static common.utils.InputVerifier.checkValueRange;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -5,7 +5,7 @@ import java.util.NoSuchElementException;
 import java.util.function.IntPredicate;
 import java.util.stream.IntStream;
 
-import static common.utils.utils.utils.InputVerifier.*;
+import static common.utils.InputVerifier.*;
 
 public class Bridge {
     private final List<Integer> positions;

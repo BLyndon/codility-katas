@@ -8,7 +8,7 @@ import java.util.stream.IntStream;
 
 import static Lesson5.PassingCars.Direction.LEFT;
 import static Lesson5.PassingCars.Direction.RIGHT;
-import static common.utils.utils.utils.InputVerifier.checkArraySize;
+import static common.utils.InputVerifier.checkArraySize;
 
 public class CarCounter {
 

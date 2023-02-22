@@ -4,7 +4,7 @@ import common.exceptions.OrderingException;
 
 import java.util.Arrays;
 
-import static common.utils.utils.utils.InputVerifier.checkValueRange;
+import static common.utils.InputVerifier.checkValueRange;
 
 public class DivCounter {
     private final int startValue;

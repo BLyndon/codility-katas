@@ -2,7 +2,7 @@ package Lesson3.PermMissingElem;
 
 import java.util.*;
 
-import static common.utils.utils.utils.InputVerifier.*;
+import static common.utils.InputVerifier.*;
 
 public class PermMissingElemDetective {
     private final List<Integer> array;

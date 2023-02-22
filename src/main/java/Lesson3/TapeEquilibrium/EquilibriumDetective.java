@@ -3,8 +3,8 @@ package Lesson3.TapeEquilibrium;
 import java.util.ArrayList;
 import java.util.List;
 
-import static common.utils.utils.utils.InputVerifier.checkArraySize;
-import static common.utils.utils.utils.InputVerifier.checkValueRange;
+import static common.utils.InputVerifier.checkArraySize;
+import static common.utils.InputVerifier.checkValueRange;
 
 public abstract class EquilibriumDetective {
         public final List<Integer> array;

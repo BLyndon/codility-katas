@@ -4,7 +4,7 @@ import common.exceptions.InvalidTargetException;
 
 import java.util.Arrays;
 
-import static common.utils.utils.utils.InputVerifier.checkValueRange;
+import static common.utils.InputVerifier.checkValueRange;
 
 public class Frog {
     private final int initialPos;

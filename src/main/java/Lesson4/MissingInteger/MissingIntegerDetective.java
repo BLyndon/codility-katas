@@ -4,8 +4,8 @@ import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-import static common.utils.utils.utils.InputVerifier.checkArraySize;
-import static common.utils.utils.utils.InputVerifier.checkValueRange;
+import static common.utils.InputVerifier.checkArraySize;
+import static common.utils.InputVerifier.checkValueRange;
 
 public class MissingIntegerDetective {
     private List<Integer> array;

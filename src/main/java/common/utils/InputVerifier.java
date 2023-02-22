@@ -1,4 +1,4 @@
-package common.utils.utils.utils;
+package common.utils;
 
 import common.exceptions.ArraySizeException;
 import common.exceptions.DuplicateValueException;
