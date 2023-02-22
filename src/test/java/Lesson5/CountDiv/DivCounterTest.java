@@ -1,4 +1,4 @@
-package Lesson5.CoundDiv;
+package Lesson5.CountDiv;
 
 import common.exceptions.OrderingException;
 import common.exceptions.ValueRangeException;
